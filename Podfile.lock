@@ -1,0 +1,16 @@
+PODS:
+  - Roboflow (1.2.7)
+
+DEPENDENCIES:
+  - Roboflow
+
+SPEC REPOS:
+  trunk:
+    - Roboflow
+
+SPEC CHECKSUMS:
+  Roboflow: 7adaca65de6c175b71ca6602e610248c0487cdf1
+
+PODFILE CHECKSUM: a0bbf8b09a7932305ba0318bdf9297b5cfa74ad1
+
+COCOAPODS: 1.17.0
